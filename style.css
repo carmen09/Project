@@ -1,0 +1,42 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    Background-color:black;
+  }
+  
+  h1 {
+    color: red;
+    position: absolute; 
+      font-size:184px;
+     line-height:20px;
+       top:130px;
+    left:50%; 
+    font-family: "Permanent Marker";
+  }
+  #Text{
+    font-weight:20;
+      position: absolute; 
+    top:40%;
+    font-size: 30px;
+    left:50%; 
+    display: inline;
+      color: white;
+        font-family: "Architects Daughter";
+    width:800px
+    }
+  
+  .link{
+    position:absolute;
+      right:20%;
+     bottom:10%;
+    font-size: 48px;
+    color:white;
+      font-family: "Permanent Marker";
+  text-decoration:none;
+       background-color:#B2FF99;
+    high:20px;
+    width:300px;
+    
+  }
